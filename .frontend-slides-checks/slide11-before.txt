@@ -1,0 +1,61 @@
+﻿<section data-label="The Ask &amp; Use of Funds" data-screen-label="11" style="width:1920px;height:1080px;background:#141414;position:relative;overflow:hidden;display:flex;flex-direction:column;padding:82px 118px;font-family:'DM Sans',sans-serif;color:#fff;">
+  <div style="position:absolute;top:-260px;right:-220px;width:1060px;height:1060px;border-radius:50%;background:radial-gradient(circle, rgba(56,244,206,0.16) 0%, rgba(56,244,206,0) 70%);"></div>
+  <div style="position:absolute;bottom:-300px;left:-260px;width:940px;height:940px;border-radius:50%;background:radial-gradient(circle, rgba(115,115,255,0.13) 0%, rgba(115,115,255,0) 70%);"></div>
+  <div style="font-size:15px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#38F4CE;margin-bottom:24px;position:relative;">The Ask</div>
+  <div style="font-size:56px;font-weight:700;letter-spacing:-0.02em;line-height:1.08;max-width:1500px;margin-bottom:42px;position:relative;">RM95,000 to move Renvo from built product to launched and growing.</div>
+  <div style="display:flex;gap:56px;flex:1;position:relative;align-items:stretch;">
+    <div style="flex:0.92;display:flex;flex-direction:column;justify-content:space-between;background:rgba(56,244,206,0.08);border:1px solid rgba(56,244,206,0.35);border-radius:22px;padding:48px;">
+      <div>
+        <div style="font-size:128px;font-weight:700;letter-spacing:-0.04em;line-height:0.9;color:#38F4CE;margin-bottom:26px;">RM95k</div>
+        <div style="font-size:28px;font-weight:600;line-height:1.3;margin-bottom:22px;">A focused launch grant, not a padded ceiling request.</div>
+        <div style="font-size:19px;color:#B4B4B4;line-height:1.65;">The request stays below the RM150,000 ceiling and is tied to the next 12 months: acquisition testing, reliable infrastructure, iOS readiness, compliance, and light execution support.</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:36px;">
+        <div style="border-top:1px solid rgba(255,255,255,0.14);padding-top:18px;">
+          <div style="font-size:14px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#38F4CE;margin-bottom:8px;">Outcome</div>
+          <div style="font-size:20px;color:#fff;line-height:1.35;">Public launch with measured agent acquisition.</div>
+        </div>
+        <div style="border-top:1px solid rgba(255,255,255,0.14);padding-top:18px;">
+          <div style="font-size:14px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#38F4CE;margin-bottom:8px;">Risk control</div>
+          <div style="font-size:20px;color:#fff;line-height:1.35;">Funds map directly to operating needs.</div>
+        </div>
+      </div>
+    </div>
+    <div style="flex:1.08;background:#242424;border:1px solid #2A2A2A;border-radius:22px;padding:36px;display:flex;flex-direction:column;">
+      <div style="display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:24px;">
+        <div>
+          <div style="font-size:15px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:#38F4CE;margin-bottom:10px;">Use of Funds</div>
+          <div style="font-size:30px;font-weight:700;letter-spacing:-0.01em;">Allocated to launch readiness</div>
+        </div>
+        <div style="font-size:20px;color:#B4B4B4;">12-month plan</div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:12px;flex:1;">
+        <div style="display:grid;grid-template-columns:1fr 135px;gap:20px;align-items:center;padding:16px 18px;border-radius:14px;background:#1A1A1A;border:1px solid #303030;">
+          <span style="font-size:17px;color:#e2e2e2;line-height:1.35;">Marketing &amp; agent acquisition tests</span><span style="font-size:19px;font-weight:700;color:#fff;text-align:right;">RM30,000</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 135px;gap:20px;align-items:center;padding:16px 18px;border-radius:14px;background:#1A1A1A;border:1px solid #303030;">
+          <span style="font-size:17px;color:#e2e2e2;line-height:1.35;">Infrastructure: Supabase, Clerk, OpenAI, n8n</span><span style="font-size:19px;font-weight:700;color:#fff;text-align:right;">RM24,000</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 135px;gap:20px;align-items:center;padding:16px 18px;border-radius:14px;background:#1A1A1A;border:1px solid #303030;">
+          <span style="font-size:17px;color:#e2e2e2;line-height:1.35;">Contract help: design, QA, support</span><span style="font-size:19px;font-weight:700;color:#fff;text-align:right;">RM20,000</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 135px;gap:20px;align-items:center;padding:16px 18px;border-radius:14px;background:#1A1A1A;border:1px solid #303030;">
+          <span style="font-size:17px;color:#e2e2e2;line-height:1.35;">Legal &amp; compliance: PDPA, Terms, Privacy</span><span style="font-size:19px;font-weight:700;color:#fff;text-align:right;">RM8,000</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 135px;gap:20px;align-items:center;padding:16px 18px;border-radius:14px;background:#1A1A1A;border:1px solid #303030;">
+          <span style="font-size:17px;color:#e2e2e2;line-height:1.35;">Buffer / contingency</span><span style="font-size:19px;font-weight:700;color:#fff;text-align:right;">RM12,500</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 135px;gap:20px;align-items:center;padding:16px 18px;border-radius:14px;background:#1A1A1A;border:1px solid #303030;">
+          <span style="font-size:17px;color:#e2e2e2;line-height:1.35;">Apple Developer Program for iOS launch</span><span style="font-size:19px;font-weight:700;color:#fff;text-align:right;">RM500</span>
+        </div>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-top:18px;padding:20px 22px;background:rgba(56,244,206,0.10);border:1px solid rgba(56,244,206,0.35);border-radius:16px;">
+        <span style="font-size:22px;font-weight:700;color:#fff;">Total requested</span>
+        <span style="font-size:28px;font-weight:700;color:#38F4CE;">RM95,000</span>
+      </div>
+    </div>
+  </div>
+  <div style="position:absolute;bottom:34px;left:118px;right:118px;display:flex;justify-content:space-between;font-size:14px;color:#666;">
+    <span>Renvo &mdash; CIP-Spark Application</span><span>11 / 12</span>
+  </div>
+</section>
